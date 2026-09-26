@@ -1,0 +1,8 @@
+{
+  "name": "Harshit Bhardwaj — Author, Writing Mentor, Musician, Filmmaker",
+  "description": "Harshit Bhardwaj is an author, writing mentor, musician, and filmmaker. Creator of Author's Forge — a publishing incubator for serious experts with something real to say.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
